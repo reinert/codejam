@@ -4,5 +4,4 @@ JAVAC=$JAVA_HOME/bin/javac
 JAVA=$JAVA_HOME/bin/java
 
 "$JAVA_HOME"/bin/javac Solution.java
-"$JAVA_HOME"/bin/java Solution < small.in > small.out
-"$JAVA_HOME"/bin/java Solution < large.in > large.out
+"$JAVA_HOME"/bin/java Solution < test.in
